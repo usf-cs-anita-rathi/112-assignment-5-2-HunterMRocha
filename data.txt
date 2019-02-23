@@ -1,0 +1,8 @@
+
+Total miles driven: 112.0
+Odometer: 112.0
+Fuel Efficiency: 29.0
+Gallons of gas used: 3.86 
+Your total trip length was 1.90 hours
+
+false
